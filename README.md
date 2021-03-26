@@ -1,2 +1,4 @@
-# Rick-and-Morty---MemoryGame
-🎮 Un juego increíble  de memoria de Rick and Morty 🕹
+Bases de asincronismo en JavaScript con:
+Callback
+Promise
+Async
